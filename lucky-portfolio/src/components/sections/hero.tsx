@@ -22,7 +22,7 @@ export function Hero() {
             Full-Stack Developer
           </p>
           <h1 className="text-4xl sm:text-6xl font-bold mb-4">
-            Hi, I’m Lokendra ‘Lucky’ Mahale 👋
+            Hi, I’m Lokendra Mahale 👋
           </h1>
           <p className="max-w-2xl mx-auto text-[15px] sm:text-base text-gray-400">
             I build efficient, scalable, and user-focused web solutions using modern frameworks and clean architecture.
