@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "Training & Placement Cell Portal",
+      "description": "Role-based recruitment platform for colleges enabling drive management, student eligibility, and recruiter workflows.",
+      "category": "Full-Stack",
+      "tech": ["React", "Node.js", "Express", "PostgreSQL"],
+      "github": "https://github.com/yourname/tpc-portal",
+      "demo": "https://tpc.example.com",
+      "image": "/images/tpc.jpg"
+    },
+    {
+      "title": "RSGC — Remote Surveillance Garbage Collection",
+      "description": "Live-tracking system with route monitoring using WebSockets for municipal operations.",
+      "category": "Web Apps",
+      "tech": ["Next.js", "Express", "WebSocket"],
+      "github": "https://github.com/yourname/rsgc",
+      "demo": "https://rsgc.example.com",
+      "image": "/images/rsgc.jpg"
+    },
+    {
+      "title": "Fitness First",
+      "description": "Health and fitness platform with curated workouts, diet plans, and calculators.",
+      "category": "Web Apps",
+      "tech": ["Next.js", "Tailwind", "Prisma", "PostgreSQL"],
+      "github": "https://github.com/yourname/fitness-first",
+      "demo": "https://fitness.example.com",
+      "image": "/images/fitness.jpg"
+    },
+    {
+      "title": "Employee Attrition Prediction",
+      "description": "ML-driven predictive system for HR attrition insights using classical models and explainability.",
+      "category": "AI/ML",
+      "tech": ["Python", "Flask", "scikit-learn"],
+      "github": "https://github.com/yourname/attrition-prediction",
+      "demo": "https://attrition.example.com",
+      "image": "/images/attrition.jpg"
+    }
+  ]
+}

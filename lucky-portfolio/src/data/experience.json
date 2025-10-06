@@ -1,0 +1,14 @@
+{
+  "experience": [
+    {
+      "role": "Full Stack Developer Intern",
+      "org": "Tech Company",
+      "duration": "Jan 2024 – Jun 2024",
+      "points": [
+        "Built features across Next.js frontend and Node.js services",
+        "Optimized Postgres queries cutting response times by 30%",
+        "Shipped CI-ready modules with test coverage"
+      ]
+    }
+  ]
+}
