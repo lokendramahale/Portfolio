@@ -37,7 +37,7 @@ export function About() {
             <div className="relative inline-block rounded-2xl p-[2px] bg-gradient-to-tr from-[var(--color-accent)] via-[var(--color-accent-2)] to-[var(--color-accent-3)]">
               <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-card)]">
                 <Image
-                  src="/images/lucky.svg"
+                  src="/images/profile.png"
                   width={640}
                   height={640}
                   alt="Lokendra ‘Lucky’ Mahale"
